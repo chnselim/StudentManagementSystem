@@ -1,0 +1,100 @@
+{
+    "name": "StudentManagementSystem",
+    "settings": {
+        "cmd": {
+            "license": "",
+            "cmdVersion": "",
+            "frameworkVersion": ""
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "urlPrefix": "http://localhost/StudentManagementSystem/",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "projectHasEnabledWebServer": true,
+        "lockUrlPrefix": true,
+        "installStatus": "Not Installed"
+    },
+    "xdsVersion": "3.2.0",
+    "xdsBuild": 339,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext51",
+    "viewOrderMap": {
+        "view": [
+            "1b7c7668-af43-4f0e-a7b0-a53b7620df7e",
+            "3fd4f388-a78c-4884-98b8-bb72b5292f86",
+            "7a5f01c9-9f9c-4f3c-b323-27f2e9db7b80",
+            "41715167-7ec2-46ab-a8e8-bd8bce44c623",
+            "ceae83fb-2aa1-4409-bf8f-92c235f866e1",
+            "eeed4628-0faf-4382-83b2-b65cf1c5b92a",
+            "c0d682df-7e40-4907-a92b-0316fc8664e9",
+            "7a4b1e89-c910-4e7f-9707-6164dddbfbe5",
+            "75d85b0d-7284-4e96-9a2b-10212e5c6926",
+            "81391962-0237-4722-bce2-4236508fc203",
+            "9e9be21a-7c12-4477-bf8b-0446797c0132",
+            "7263d059-b820-4179-8aa7-0339c13ae5ef",
+            "a20c9f87-8d32-4a6e-9e6e-f73ac35a1db2",
+            "b36a8682-c058-4e4f-b802-de3f58319759",
+            "1a2e387e-905e-42ab-9ac0-0c3d6f7348ae",
+            "a1c2395d-cbc0-4603-b2d5-4e1d3df8d1c8",
+            "34f1680e-b1e2-41ce-ae18-11e54f6f11b4",
+            "2b4dd90f-9b23-400a-864f-8135346ea14f",
+            "6c7b3392-8cea-4fd4-ae36-9283cd02ef4d",
+            "7c36167e-8909-4a18-b716-965a1d5e6c0d",
+            "f0e04f64-b780-4ce9-9de3-22bda672377b",
+            "e30acc04-d988-46eb-8008-2907d37a3a9f",
+            "4aeae3b7-b278-4b0d-8f31-72289f54c164",
+            "d0961517-3fae-462e-8811-88c9b126e0be",
+            "df6def8d-7575-425c-9524-cfbd60e923b9",
+            "d35f0a31-08ed-4fd9-8424-9482267377d2",
+            "e11c98d9-d48a-42f5-936a-afe7c687f083",
+            "c2829bed-b0b2-4346-a319-b1ed570edf80",
+            "7f0e675a-ef1d-4dd1-9a78-8eb0afe42950",
+            "378fda25-30df-475f-983f-b2087d4e93f0",
+            "fe062dde-d977-4834-83f8-8b841caec368",
+            "18198fb8-8278-495d-8b1f-28a28aea7087",
+            "e4064b39-6e13-4920-b0ee-25f3bc4e0645"
+        ],
+        "store": [
+            "b968679f-d95d-4fb8-a63f-9b426cd357cd",
+            "936dbf5d-a45d-4262-8a51-891986be9ea3",
+            "375124f5-8d9e-410f-8c2d-87623ddba609",
+            "53a29a81-1008-4a4a-992b-2a4c911a6ed7",
+            "42e30ed3-abbc-4936-871e-e75757030f0c",
+            "a1ae93aa-93fb-482e-af98-1cd8955090cf",
+            "f6fd6cac-2643-4114-abde-523cc0e3b3c5",
+            "64f59a72-460f-44e8-88aa-3e5a129ba06d"
+        ],
+        "controller": [],
+        "model": [
+            "b8b963bd-670a-4a5e-90fc-ca26182d32aa",
+            "5246dd43-c609-4e83-ba31-479685d1fd1f",
+            "6f38688e-3d1a-495b-ac23-ecec319d6d55",
+            "5499cb2c-fab9-456b-971a-b873445af60a",
+            "79be7c1f-98f6-4728-8868-f6a309153523",
+            "d8cbdbea-341f-4452-bd6f-2e79a2d680ba",
+            "22856a4e-e82b-4cd9-b62b-85c44998a296",
+            "976b0d51-0a41-4714-8a66-4ee6108fc806"
+        ],
+        "resource": [
+            "192a5895-ed94-4bb1-99a6-b5cc1c8325cb",
+            "bf512855-7d71-4558-956d-d7ade3e193bb"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
