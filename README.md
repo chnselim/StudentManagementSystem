@@ -3,7 +3,6 @@
 <img src="https://static1.textcraft.net/data1/4/5/458f106109ca3d6730e7d7c94031a0134e72f49bda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd807098743930d3c29474bd167c2af6aea0566.png"></img>
 </h1>
 
-Creating a SMS design with using [Ext JS 5.1](http://docs.sencha.com/extjs/5.1.3/) on [Sencha Architect](https://www.sencha.com/products/architect/)
 
 ![mainpng](pngs/main.JPG)
 
